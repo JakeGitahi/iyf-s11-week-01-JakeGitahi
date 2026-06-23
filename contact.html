@@ -1,0 +1,68 @@
+<form>
+
+    <fieldset>
+
+        <legend>Contact Information</legend>
+
+        <label for="fullname">Full Name</label>
+        <input
+            type="text"
+            id="fullname"
+            required
+            placeholder="Enter your full name"
+        >
+
+        <label for="email">Email</label>
+        <input
+            type="email"
+            id="email"
+            required
+            placeholder="Enter your email"
+        >
+
+        <label for="phone">Phone</label>
+        <input
+            type="tel"
+            id="phone"
+            placeholder="07xxxxxxxx"
+        >
+
+    </fieldset>
+
+    <fieldset>
+
+        <legend>Message Details</legend>
+
+        <label for="subject">Subject</label>
+
+        <select id="subject">
+
+            <option>General Inquiry</option>
+
+            <option>Project Collaboration</option>
+
+            <option>Feedback</option>
+
+        </select>
+
+        <label for="message">Message</label>
+
+        <textarea
+            id="message"
+            minlength="50"
+            required
+            placeholder="Write at least 50 characters..."
+        ></textarea>
+
+    </fieldset>
+
+    <label>
+        <input type="checkbox">
+        Subscribe to Newsletter
+    </label>
+
+    <button type="submit">
+        Submit
+    </button>
+
+</form>
