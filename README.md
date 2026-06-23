@@ -31,7 +31,7 @@ A multi-page portfolio website built using semantic HTML and accessibility best 
 
 ## Challenges Faced
 1. Finding specific elements when inspecting a webpage i.e form element
-2. 
+2. Linking pages on the naviagtion bar
 
 ## Live Demo
 ...
