@@ -13,6 +13,10 @@
 2. `<div class="navigation__search" data-view="mobile">
           <mdn-search-button></mdn-search-button>
         </div>`
+3. Hovering over:
+- The docs links: The underline disappears
+- The featured article links: Underline appears
+- The footer links: The colour changes to white
 ## Website 3: W3Schools
 
 ### 5 Different HTML Elements
