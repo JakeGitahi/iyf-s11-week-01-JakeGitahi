@@ -34,4 +34,4 @@ A multi-page portfolio website built using semantic HTML and accessibility best 
 2. Linking pages on the naviagtion bar
 
 ## Live Demo
-...
+https://jakegitahi.github.io/iyf-s11-week-01-JakeGitahi/
