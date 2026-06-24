@@ -13,3 +13,21 @@
 2. `<div class="navigation__search" data-view="mobile">
           <mdn-search-button></mdn-search-button>
         </div>`
+## Website 3: W3Schools
+
+### 5 Different HTML Elements
+1. `<div>`
+2. `<h1>` 
+3. `<p>`
+4. `<a>`
+5. `<img>`
+
+### Form Element and Its Inputs
+Example: **Sign‑In Form**
+```html
+<form id="signinform">
+  <input type="email" name="email" placeholder="Email">
+  <input type="password" name="password" placeholder="Password">
+  <input type="checkbox" name="remember"> Remember me
+  <button type="submit">Sign In</button>
+</form>
